@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently learning the basics of Python in preparation for my master's degree in Business Analytics.
+If you have any tips or feedback you'd like to share, then please don't hesitate to contact me :)
+You can reach me on linkedin: https://www.linkedin.com/in/mpaw9/
+
+
 <!--
 **Redd912/Redd912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
