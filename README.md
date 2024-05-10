@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm currently learning the basics of Python in preparation for my master's degree in Business Analytics.
-If you have any tips or feedback you'd like to share, then please don't hesitate to contact me :)
-You can reach me on linkedin: https://www.linkedin.com/in/mpaw9/
+If you have any tips or feedback, don't hesitate to contact me :)
+You can also reach me on linkedin: https://www.linkedin.com/in/mpaw9/
 
 
 <!--
