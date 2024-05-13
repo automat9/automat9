@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm currently learning the basics of Python in preparation for my master's degree in Business Analytics.
-If you have any tips or feedback, don't hesitate to contact me :)
-You can also reach me on linkedin: https://www.linkedin.com/in/mpaw9/
-I'm not a nerd! wrr
+I'm currently learning the basics of Python in preparation for my master's degree in Business Analytics. <br />
+If you have any tips or feedback, don't hesitate to contact me :) <br />
+You can also reach me on linkedin: https://www.linkedin.com/in/mpaw9/ <br />
+Also, I'm not a nerd! <br />
 
 
 <!--
