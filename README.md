@@ -5,7 +5,6 @@ I'd love to hear your feedback on my projects and my overall coding skills, plea
 You can reach me on: 
 linkedin: https://www.linkedin.com/in/mpaw9/ <br />
 discord: redd09
-facebook: https://www.facebook.com/profile.php?id=100068941007506
 <br />
 
 
