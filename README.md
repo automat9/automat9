@@ -4,7 +4,7 @@ I'm currently learning the basics of Python in preparation for my master's degre
 I'd love to hear your feedback on my projects and my overall coding skills, please don't hesitate to contact me! <br />
 You can reach me on: <br />
 LinkedIn: https://www.linkedin.com/in/mpaw9/ <br />
-Discord: redd09 <br />
+Discord: redd09
 
 
 <!--
