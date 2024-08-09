@@ -2,7 +2,7 @@
 
 I'm currently learning the basics of Python in preparation for my master's degree in Business Analytics. <br />
 I'd love to hear your feedback on my projects and my overall coding skills, please don't hesitate to contact me! <br />
-You can reach me on discord (redd09) or linkedin (https://www.linkedin.com/in/mpaw9).<br />
+You can reach out to me on Discord (redd09) or LinkedIn (https://www.linkedin.com/in/mpaw9).<br />
 
 
 <!--
