@@ -35,10 +35,13 @@
   </a> 
 </p>
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="automat9" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4c0b21&locale=en" alt="automat9" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="automat9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4c0b21&locale=en" alt="automat9" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" />
