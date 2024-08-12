@@ -43,4 +43,4 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" /></p>
 </div>
 
-!(https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-dark.svg)
+![snake_animation](https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-dark.svg)
