@@ -2,10 +2,6 @@
 <h3 align="center">I'm currently learning the basics of Python in preparation for my master's degree in Business Analytics.<br>I'd love to hear your feedback on my projects and my overall coding skills, please don't hesitate to contact me!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" />
-</p>
-
-<p align="center">
   👨‍💻 All of my projects are available at 
   <a href="https://github.com/automat9/Projects" target="_blank">https://github.com/automat9/Projects</a>
 </p>
@@ -46,8 +42,8 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" /></p>
 </div>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" />
 </p>
-
 ![snake_animation](https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-dark.svg)
