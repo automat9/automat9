@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/automat9/Projects](https://github.com/automat9/Projects)
+<p align='center'- ></p>👨‍💻 All of my projects are available at [https://github.com/automat9/Projects](https://github.com/automat9/Projects) >
 
-- 📫 How to reach me **mateusz.pawlaczyk17@gmail.com**
+<p align='center'- ></p>📫 How to reach me **mateusz.pawlaczyk17@gmail.com** >
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
