@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=automat9" alt="automat9" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/automat9/Projects](https://github.com/automat9/Projects)
 
 - 📫 How to reach me **mateusz.pawlaczyk17@gmail.com**
@@ -17,8 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=automat9&show_icons=true&locale=en&layout=compact" alt="automat9" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ae0a41&text_color=000000&bg_color=4c0b21&hide_border=true&locale=en" alt="automat9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ff1463&text_color=ffffff&bg_color=4c0b21&locale=en" alt="automat9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" /></p>
