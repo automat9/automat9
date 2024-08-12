@@ -40,6 +40,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4c0b21&locale=en" alt="automat9" style="margin-left: 20px;" />
 </div>
 
-<p align="center">
+<br clear="both" />
+
+<p align="center" style="margin-top: 40px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" />
 </p>
