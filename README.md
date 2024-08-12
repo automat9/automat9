@@ -44,7 +44,6 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" />
-</p>
-
+  <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" /> </p> 
+  
 ![snake_animation](https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-dark.svg)
