@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt Pawlaczyk</h1>
+<h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">Currently learning the basics of Python in preparation for my master's degree in Business Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" /> </p>
