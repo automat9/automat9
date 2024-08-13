@@ -1,4 +1,4 @@
-![photo]([(https://github.com/automat9/automat9/blob/master/ipiccy_image%20(1).png)](https://github.com/automat9/automat9/blob/master/ipiccy_image%20(1).png))
+![photo](https://github.com/automat9/automat9/blob/master/smaller.png)
 
 
 <h1 align="center">Hi 👋, I'm Matt</h1>
