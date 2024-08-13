@@ -1,4 +1,4 @@
-![photo](https://github.com/automat9/automat9/blob/master/smaller121.gif)
+![photo](https://github.com/automat9/automat9/blob/master/smaller99.gif)
 
 
 <h1 align="center">Hi 👋, I'm Matt</h1>
