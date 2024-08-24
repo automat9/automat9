@@ -78,9 +78,9 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" />
   </p>
   
-  <p>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&bg_color=4c0b21&color=ffffffff&line=74e088&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph graph" />
-  </p>
+<p>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=My%20Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=4c0b21&color=ffffffff&line=74e088&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph graph" />
+</p>
   
   <p>
     <img align="center" src="https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-dark.svg" alt="snake_animation" />
