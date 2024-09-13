@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">I'm a motivated master's student in Business Analytics, with a strong passion for learning and developing data-driven decision-making and analytical problem-solving skills.<br>I'd love to hear your feedback on my projects and my overall coding skills, please don't hesitate to contact me!</h3>
+<h3 align="center">I'm a motivated master's student in Business Analytics, passionate about learning and developing data-driven decision-making and problem-solving skills.<br>I'd love to hear your feedback on my projects and my overall coding skills, please don't hesitate to contact me!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" />
