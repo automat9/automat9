@@ -1,27 +1,23 @@
-<!-- Banner -->
 ![photo](https://github.com/automat9/automat9/blob/master/banner.gif)
+
 
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">I'm a motivated master's student in Business Analytics, passionate about learning and developing data-driven decision-making and problem-solving skills.<br>I'd love to hear your feedback on my projects and my overall coding skills, please don't hesitate to contact me!</h3>
 
-<!-- Profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=automat9&label=Profile%20views&color=4c0b21&style=flat" alt="automat9" />
-</p>
-
-<!-- Projects link -->
+  </p>
+                                                                                                                          
 <p align="center">
   👨‍💻 All of my projects are available at 
   <a href="https://github.com/automat9/Projects" target="_blank">https://github.com/automat9/Projects</a>
 </p>
 
-<!-- Contact information -->
 <p align="center">
   📫 How to reach me: 
   <strong>mateusz.pawlaczyk17@gmail.com</strong>
 </p>
 
-<!-- Social connections -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mpaw9" target="_blank">
@@ -29,7 +25,6 @@
   </a>
 </p>
 
-<!-- Tools and Languages -->
 <h3 align="center">Languages, Libraries and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -70,30 +65,25 @@
   </a>
 </p>
 
-<!-- GitHub Stats - Dark and Light Mode -->
 <div align="center">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="automat9" style="margin-right: 10px;" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=automat9&show_icons=true&theme=light&title_color=000000&text_color=000000&bg_color=ffffff&locale=en&layout=compact" alt="automat9" style="margin-right: 10px;" />
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4c0b21&locale=en" alt="automat9" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=light&title_color=000000&text_color=000000&bg_color=ffffff&locale=en" alt="automat9" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4c0b21&locale=en" alt="automat9" style="margin-right: 10px;" />
   </p>
 
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=light" alt="automat9" />
   </p>
-
+  
+<p>
+  
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=4c0b21&color=ffffffff&line=74e088&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph graph" />
+</p>
+  
   <p>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=4c0b21&color=ffffffff&line=74e088&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph dark mode" />
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=ffffff&color=000000&line=000000&title_color=000000&point=000000&hide_title=false" height="298" alt="activity-graph light mode" />
-  </p>
-
-  <p>
-    <img align="center" src="https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake_animation dark" />
-    <img align="center" src="https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-light.svg#gh-light-mode-only" alt="snake_animation light" />
+    <img align="center" src="https://github.com/automat9/automat9/blob/output/github-contribution-grid-snake-dark.svg" alt="snake_animation" />
   </p>
 </div>
