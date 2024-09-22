@@ -63,6 +63,9 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="photoshop logo" width="40" height="40"/>
   </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/svg/354428/tableau-icon" alt="tableau" width="40" height="40"/>
+  </a>
 </p>
 
 <div align="center">
