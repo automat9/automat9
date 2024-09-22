@@ -64,7 +64,7 @@
     <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="photoshop logo" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/57473810/120269504-f312f480-c275-11eb-9c0a-46255b2dc752.png" alt="tableau logo" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="tableau logo" width="40" height="40"/>
   </a>
 </p>
 
