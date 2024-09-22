@@ -63,8 +63,8 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="photoshop logo" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/svg/354428/tableau-icon" alt="tableau" width="40" height="40"/>
+  <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/57473810/120269504-f312f480-c275-11eb-9c0a-46255b2dc752.png" alt="tableau logo" width="40" height="40"/>
   </a>
 </p>
 
