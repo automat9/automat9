@@ -66,6 +66,9 @@
   <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer">
     <img src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="tableau logo" width="40" height="40"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  </a>
 </p>
 
 <div align="center">
