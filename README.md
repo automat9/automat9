@@ -77,7 +77,7 @@
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=false&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4a142b&locale=en" alt="automat9" style="margin-right: 10px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4a142b&icon_color=f8316a&locale=en" alt="automat9" style="margin-right: 10px;" />
   </p>
 
   <p>
@@ -86,7 +86,7 @@
   
 <p>
   
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=4a142b&color=ffffffff&line=ffffffff&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=4a142b&color=ffffffff&line=f8316a&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph graph" />
 </p>
   
   <p>
