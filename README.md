@@ -86,7 +86,7 @@
   
 <p>
   
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=4a142b&color=ffffffff&line=74e088&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=automat9&radius=16&area=true&order=5&custom_title=Contributions%20in%20the%20Past%2031%20Days&hide_border=false&bg_color=4a142b&color=ffffffff&line=ffffffff&title_color=ffffffff&point=ffffffff&hide_title=false" height="298" alt="activity-graph graph" />
 </p>
   
   <p>
