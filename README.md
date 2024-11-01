@@ -15,7 +15,7 @@
 
 <p align="center">
   📫 How to reach me: 
-  <strong>mateusz.pawlaczyk17@gmail.com</strong>
+  <strong>mateusz.paw9@gmail.com</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
