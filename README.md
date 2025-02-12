@@ -85,10 +85,6 @@
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=automat9&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=4a142b&icon_color=f8316a&locale=en" alt="automat9" style="margin-right: 10px;" />
   </p>
-
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=automat9&theme=dark" alt="automat9" />
-  </p>
   
 <p>
   
