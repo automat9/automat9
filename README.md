@@ -61,7 +61,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio logo" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="photoshop logo" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop logo" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/en-gb" target="_blank" rel="noreferrer">
     <img src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="tableau logo" width="40" height="40"/>
